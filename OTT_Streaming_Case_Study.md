@@ -4,7 +4,7 @@ Author: "Gaurav Kumar"
 Last Updated: 16-Aug-2023
 ---
 # **OTT-Streaming CASE STUDY**
-![Tools Tags](https://img.shields.io/badge/Tools- Python, Numpy, Pandas, Matplotlib) ![Skills Tag](https://img.shields.io/badge/Tags-Data_Analytics,Data_Visualization-orange)
+![Tools Tags](https://img.shields.io/badge/Tools-Python,Numpy,Pandas,Matplotlib) ![Skills Tag](https://img.shields.io/badge/Tags-Data_Analytics,Data_Visualization-orange)
 # Table of contents
 - [**OTT-Streaming CASE STUDY**](#ott-streaming-case-study)
 - [Table of contents](#table-of-contents)
