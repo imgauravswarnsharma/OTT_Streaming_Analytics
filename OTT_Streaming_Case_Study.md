@@ -13,7 +13,7 @@ Last Updated: 16-Aug-2023
   - [**Scenario**](#scenario)
   - [**DataSet**](#dataset)
   - [**Visualizations**](#visualizations)
-  - [\*\*Analysis \& Recommendations \*\*](#analysis--recommendations-)
+  - [**Analysis & Recommendations **](#analysis--recommendations-)
 
 # **Project Set-up**
 ## **Introduction**
